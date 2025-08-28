@@ -1563,10 +1563,6 @@
       "source": "SITEMAPS"
     },
     {
-      "url": "https://www.valtra.com/sa/es_cl/data-holders.html",
-      "source": "SITEMAPS"
-    },
-    {
       "url": "https://www.valtra.com/sa/es_cl/errors.html",
       "source": "SITEMAPS"
     },
@@ -46764,6 +46760,10 @@
     },
     {
       "url": "https://www.valtra.com/sa/es_py/data-holders/techcompact12.html",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://www.valtra.com/sa/es_cl/data-holders.html",
       "source": "SITEMAPS"
     }
   ]
